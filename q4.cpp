@@ -2,7 +2,7 @@
  Program: Question 4 from quiz 1.
  Name  : Mohan Singh Bomrel
  Roll  : 0308
- Output: Error
+ Output: 44
 */
 
 #include<iostream>

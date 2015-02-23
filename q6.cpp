@@ -2,7 +2,7 @@
  Program: Question 6 from quiz 1.
  Name  : Mohan Singh Bomrel
  Roll  : 0308
- Output: Error: stray '\240' in program
+ Output: 2334534
 */
 
 #include<iostream>
